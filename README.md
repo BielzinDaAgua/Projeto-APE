@@ -1,7 +1,7 @@
-<p>Projeto realizado na cadeira de APE.</p> 
+###<p>Projeto realizado na cadeira de APE.</p> 
 <p>Um jogo rodando pelo terminal no estilo batalha narval, com algumas regras específicas estabelecidas pelo professor.</p>
 <p></p>
-<p>/* ---------- */</p>
+<p>/* ----------------------------------------------------- */</p>
 <p></p>
 <p>Batalha Naval é um jogo de tabuleiro em que os dois jogadores têm de adivinhar onde estão localizados os navios do oponente. O objetivo é derrubar primeiro todos os navios do adversário. </p>
 <p>Desenvolva um programa, utilizando a linguagem Python, que simule o jogo Batalha Naval, com dois jogadores, onde cada um irá atacar a frota de navios do outro. 
