@@ -1,5 +1,5 @@
-###<p>Projeto realizado na cadeira de APE.</p> 
-<p>Um jogo rodando pelo terminal no estilo batalha narval, com algumas regras específicas estabelecidas pelo professor.</p>
+##Projeto realizado na cadeira de APE. </br>
+Um jogo rodando pelo terminal no estilo batalha narval, com algumas regras específicas estabelecidas pelo professor.
 <p></p>
 <p>/* ----------------------------------------------------- */</p>
 <p></p>
